@@ -1,0 +1,8 @@
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\bin\Debug\CRUD_Connected.exe.config
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\bin\Debug\CRUD_Connected.exe
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\bin\Debug\CRUD_Connected.pdb
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\obj\Debug\CRUD_Connected.csproj.AssemblyReference.cache
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\obj\Debug\CRUD_Connected.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\obj\Debug\CRUD_Connected.exe
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\obj\Debug\CRUD_Connected.pdb
+C:\DotnetTraining\ADOTraining\CRUD_Connected\CRUD_Connected\obj\Debug\CRUD_Connected.csproj.SuggestedBindingRedirects.cache

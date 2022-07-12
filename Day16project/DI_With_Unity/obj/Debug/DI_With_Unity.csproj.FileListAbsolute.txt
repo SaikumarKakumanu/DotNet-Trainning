@@ -1,0 +1,17 @@
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\DI_With_Unity.exe.config
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\DI_With_Unity.exe
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\DI_With_Unity.pdb
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.Unity.dll
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.Unity.xml
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\DotnetTraining\Day16project\DI_With_Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\DotnetTraining\Day16project\DI_With_Unity\obj\Debug\DI_With_Unity.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day16project\DI_With_Unity\obj\Debug\DI_With_Unity.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day16project\DI_With_Unity\obj\Debug\DI_With_Unity.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day16project\DI_With_Unity\obj\Debug\DI_With_Unity.csproj.CopyComplete
+C:\DotnetTraining\Day16project\DI_With_Unity\obj\Debug\DI_With_Unity.exe
+C:\DotnetTraining\Day16project\DI_With_Unity\obj\Debug\DI_With_Unity.pdb

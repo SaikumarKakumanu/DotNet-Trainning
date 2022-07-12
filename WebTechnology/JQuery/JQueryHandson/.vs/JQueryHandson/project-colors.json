@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a59f90c-51a5-469c-a202-3360a5b54ac5": {
+      "ProjectGuid": "7a59f90c-51a5-469c-a202-3360a5b54ac5",
+      "DisplayName": "JQueryHandson",
+      "ColorIndex": 0
+    },
+    "219a62a1-b2a4-4484-9357-c6770346b06a": {
+      "ProjectGuid": "219a62a1-b2a4-4484-9357-c6770346b06a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

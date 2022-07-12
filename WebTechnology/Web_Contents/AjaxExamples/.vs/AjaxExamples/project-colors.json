@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b724622-3d5b-4e00-b17e-32ec8d531942": {
+      "ProjectGuid": "1b724622-3d5b-4e00-b17e-32ec8d531942",
+      "DisplayName": "AjaxExamples",
+      "ColorIndex": 0
+    },
+    "a121a1d8-6754-450d-849a-f8f964de1f71": {
+      "ProjectGuid": "a121a1d8-6754-450d-849a-f8f964de1f71",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\Linq_Practice.exe
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\Linq_Practice.deps.json
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\Linq_Practice.runtimeconfig.json
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\Linq_Practice.runtimeconfig.dev.json
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\Linq_Practice.dll
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\ref\Linq_Practice.dll
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\bin\Debug\net5.0\Linq_Practice.pdb
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.csproj.AssemblyReference.cache
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.AssemblyInfoInputs.cache
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.AssemblyInfo.cs
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.dll
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\ref\Linq_Practice.dll
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.pdb
+C:\DotnetTraining\DotnetCoreweb\HandsonExercisesAllPrograms\Linq_Practice\Linq_Practice\obj\Debug\net5.0\Linq_Practice.genruntimeconfig.cache

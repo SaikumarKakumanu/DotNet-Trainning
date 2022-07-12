@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdd1c6bd-3798-48ba-a70c-9c9b02489854": {
+      "ProjectGuid": "cdd1c6bd-3798-48ba-a70c-9c9b02489854",
+      "DisplayName": "BootstrapExamples",
+      "ColorIndex": 0
+    },
+    "7b73460c-e8b4-4af4-b172-6eb4ee582e6a": {
+      "ProjectGuid": "7b73460c-e8b4-4af4-b172-6eb4ee582e6a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

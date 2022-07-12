@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "80e693ae-ae9f-4ba6-93d7-dcde573bf661": {
+      "ProjectGuid": "80e693ae-ae9f-4ba6-93d7-dcde573bf661",
+      "DisplayName": "JSONHandson",
+      "ColorIndex": 0
+    },
+    "c8954311-2c90-4560-a9a8-b7ecfa0c6b9a": {
+      "ProjectGuid": "c8954311-2c90-4560-a9a8-b7ecfa0c6b9a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

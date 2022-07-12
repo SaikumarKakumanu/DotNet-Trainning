@@ -1,0 +1,13 @@
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\CalculatorClient.exe.config
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\CalculatorClient.exe
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\CalculatorClient.pdb
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\MyCalculator.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\MyCalculator.pdb
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\obj\Debug\CalculatorClient.csproj.CopyComplete
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\obj\Debug\CalculatorClient.exe
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\obj\Debug\CalculatorClient.pdb
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\CalculatorAddson.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorClient\bin\Debug\CalculatorAddson.pdb

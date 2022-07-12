@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6aab5c22-ec97-408f-9347-dfd8a42085c3": {
+      "ProjectGuid": "6aab5c22-ec97-408f-9347-dfd8a42085c3",
+      "DisplayName": "CustomerOrderService",
+      "ColorIndex": 0
+    },
+    "ecbd2a5c-493e-460c-8499-54964e33e818": {
+      "ProjectGuid": "ecbd2a5c-493e-460c-8499-54964e33e818",
+      "DisplayName": "CustomerOrderServiceTesting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

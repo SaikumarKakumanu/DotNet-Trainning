@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                $.get("http://localhost:5291/api/products", function (data, status) {
+                    console.log(data);
+                });
+            });
+        });
+       
+    </script>
+
+    <!--<script>
+        $(document).ready(function () {
+            $("input").click(function () {
+                $.post("http://localhost:5291/api/products/", function (data, status) {
+                    console.log(data);
+                });
+            });
+        });
+    </script>-->
+    <!--<script>
+        <!--$(document).ready(function () {
+           /* $("input").post(function () {*/
+            $("#btn").click(function () {
+                var txt = $("input").val();
+                $.post("http://localhost:5291/api/products",function (data, status) {
+                        console.log(txt);
+                    });
+                });
+            //});
+        });
+    </script>-->-->
+</head>
+<body>
+    <button>GetProducts</button><br />
+    Product Name &nbsp: &nbsp<input type="text" />
+    Product Price &nbsp: &nbsp<input type="number" /><br />
+   <button id="btn">post</button>
+</body>
+</html>

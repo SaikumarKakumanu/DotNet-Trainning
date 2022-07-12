@@ -1,0 +1,8 @@
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\bin\Debug\Crud_Disconnected.exe.config
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\bin\Debug\Crud_Disconnected.exe
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\bin\Debug\Crud_Disconnected.pdb
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\obj\Debug\Crud_Disconnected.csproj.AssemblyReference.cache
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\obj\Debug\Crud_Disconnected.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\obj\Debug\Crud_Disconnected.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\obj\Debug\Crud_Disconnected.exe
+C:\DotnetTraining\ADOTraining\Crud_Disconnected\Crud_Disconnected\obj\Debug\Crud_Disconnected.pdb

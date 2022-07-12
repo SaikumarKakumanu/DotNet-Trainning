@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\bin\Debug\CalculatorAddson.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\bin\Debug\CalculatorAddson.pdb
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\bin\Debug\MyCalculator.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\bin\Debug\MyCalculator.pdb
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\obj\Debug\MyCalculator2.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\obj\Debug\MyCalculator2.csproj.CopyComplete
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\obj\Debug\CalculatorAddson.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\CalculatorAddson\obj\Debug\CalculatorAddson.pdb

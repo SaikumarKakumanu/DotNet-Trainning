@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\bin\Debug\ConsoleAppDay16.exe.config
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\bin\Debug\ConsoleAppDay16.exe
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\bin\Debug\ConsoleAppDay16.pdb
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\obj\Debug\ConsoleAppDay16.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\obj\Debug\ConsoleAppDay16.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\obj\Debug\ConsoleAppDay16.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\obj\Debug\ConsoleAppDay16.exe
+C:\DotnetTraining\Day16project\ConsoleAppDay16\ConsoleAppDay16\obj\Debug\ConsoleAppDay16.pdb

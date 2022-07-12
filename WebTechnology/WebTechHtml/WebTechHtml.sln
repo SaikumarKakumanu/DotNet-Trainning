@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTechHtml", "WebTechHtml\WebTechHtml.csproj", "{2035F70B-39A3-48AB-932D-BF6B0744A9B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F86D8D46-F490-4909-BCE2-A7AE9730EDFF}"
+	ProjectSection(SolutionItems) = preProject
+		HandsonHTML.html = HandsonHTML.html
+		Internal_styles.html = Internal_styles.html
+		LoginPage.html = LoginPage.html
+		Mystyles.css = Mystyles.css
+		WelcomePage.html = WelcomePage.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2035F70B-39A3-48AB-932D-BF6B0744A9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2035F70B-39A3-48AB-932D-BF6B0744A9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2035F70B-39A3-48AB-932D-BF6B0744A9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2035F70B-39A3-48AB-932D-BF6B0744A9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEFC0660-D682-4495-B0E4-B00610852E27}
+	EndGlobalSection
+EndGlobal

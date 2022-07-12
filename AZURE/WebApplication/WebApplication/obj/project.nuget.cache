@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTeCc90ymkFw3riuVLfaQgcBLmFo3zex+klvXr4a4pffqdq76UPWCkNz6hVcJmz3EVrSNIQhMP+6D8n51+v0+Q==",
+  "success": true,
+  "projectFilePath": "C:\\DotnetTraining\\AZURE\\WebApplication\\WebApplication\\WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK67647\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

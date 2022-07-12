@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9BMKaVReBowPAUYW+Y4HqnkMNLrAPYtg1cfU2DNpo+Jyy7JkGgQBq4V16CHbuTT4fZ0GdMliOsZpgq3Csubhg==",
+  "success": true,
+  "projectFilePath": "C:\\DotnetTraining\\DotnetCoreweb\\HandsonExercisesAllPrograms\\Linq_Practice\\Linq_Practice\\Linq_Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK67647\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

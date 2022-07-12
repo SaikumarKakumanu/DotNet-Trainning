@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day16project\DIProject\obj\Debug\DIProject.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day16project\DIProject\obj\Debug\DIProject.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day16project\DIProject\obj\Debug\DIProject.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day16project\DIProject\bin\Debug\DIProject.exe.config
+C:\DotnetTraining\Day16project\DIProject\bin\Debug\DIProject.exe
+C:\DotnetTraining\Day16project\DIProject\bin\Debug\DIProject.pdb
+C:\DotnetTraining\Day16project\DIProject\obj\Debug\DIProject.exe
+C:\DotnetTraining\Day16project\DIProject\obj\Debug\DIProject.pdb

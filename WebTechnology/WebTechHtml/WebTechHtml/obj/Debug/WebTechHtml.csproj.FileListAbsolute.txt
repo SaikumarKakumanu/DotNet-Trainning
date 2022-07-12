@@ -1,0 +1,8 @@
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\bin\Debug\WebTechHtml.exe.config
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\bin\Debug\WebTechHtml.exe
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\bin\Debug\WebTechHtml.pdb
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\obj\Debug\WebTechHtml.csproj.AssemblyReference.cache
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\obj\Debug\WebTechHtml.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\obj\Debug\WebTechHtml.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\obj\Debug\WebTechHtml.exe
+C:\DotnetTraining\WebTechnology\WebTechHtml\WebTechHtml\obj\Debug\WebTechHtml.pdb

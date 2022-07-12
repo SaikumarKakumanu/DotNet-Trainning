@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Animation</title>
+    <style>
+        div{
+            width:100px;
+            height:100px;
+            background-color:red;
+            animation-name: example;
+            animation-duration:4s;
+            position:relative;
+        }
+        /*standard syntax*/
+        @keyframes example
+        {
+            0%{
+                background-color:red;
+            }
+            25% {
+                background-color: yellow;
+                left: 200px;
+                top:0px;
+            }
+            50%{
+                background-color:green;
+                left:200px;
+                top:200px;
+            }
+            75%{
+                background-color:blue;
+                right:200px;
+                top:200px;
+                
+            }
+            100%{
+                background-color:orange;
+                left:200px;
+                top:100px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <p><b>IE 9.0 and above only supports Animation</b></p>
+    <div>
+        Hi!!
+    </div>
+</body>
+</html>

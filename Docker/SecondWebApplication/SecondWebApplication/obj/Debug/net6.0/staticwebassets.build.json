@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sHQNx3EEjGdL3ja4qq4hGswkcPhAB4EHC0jB9qwxpHY=",
+  "Source": "SecondWebApplication",
+  "BasePath": "_content/SecondWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

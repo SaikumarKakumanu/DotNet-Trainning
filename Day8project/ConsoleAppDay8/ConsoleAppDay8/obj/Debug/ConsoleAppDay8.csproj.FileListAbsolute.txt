@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\bin\Debug\ConsoleAppDay8.exe.config
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\bin\Debug\ConsoleAppDay8.exe
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\bin\Debug\ConsoleAppDay8.pdb
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\obj\Debug\ConsoleAppDay8.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\obj\Debug\ConsoleAppDay8.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\obj\Debug\ConsoleAppDay8.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\obj\Debug\ConsoleAppDay8.exe
+C:\DotnetTraining\Day8project\ConsoleAppDay8\ConsoleAppDay8\obj\Debug\ConsoleAppDay8.pdb

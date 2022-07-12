@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6bb03cb-d11f-4ad4-91f3-83bca51f5e7d": {
+      "ProjectGuid": "b6bb03cb-d11f-4ad4-91f3-83bca51f5e7d",
+      "DisplayName": "HTML_HandsonDay2",
+      "ColorIndex": 0
+    },
+    "6dc0d197-c5f3-4a48-b33b-82b018952c5f": {
+      "ProjectGuid": "6dc0d197-c5f3-4a48-b33b-82b018952c5f",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

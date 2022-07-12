@@ -1,0 +1,6 @@
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.dll
+C:\DotnetTraining\Day12project\MyCalculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb

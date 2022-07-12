@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5ac739b8-1081-4d27-948a-cc5295a8babb": {
+      "ProjectGuid": "5ac739b8-1081-4d27-948a-cc5295a8babb",
+      "DisplayName": "ConsoleAppDay16",
+      "ColorIndex": 0
+    },
+    "dc4c4e7b-1b87-4fc9-b64f-cb8791931462": {
+      "ProjectGuid": "dc4c4e7b-1b87-4fc9-b64f-cb8791931462",
+      "DisplayName": "DIProject",
+      "ColorIndex": 1
+    },
+    "28b92375-f001-4ab1-9d41-e268593e9b10": {
+      "ProjectGuid": "28b92375-f001-4ab1-9d41-e268593e9b10",
+      "DisplayName": "DI_With_Unity",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

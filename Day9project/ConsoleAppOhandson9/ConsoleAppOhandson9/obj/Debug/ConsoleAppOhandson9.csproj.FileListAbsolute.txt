@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\bin\Debug\ConsoleAppOhandson9.exe.config
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\bin\Debug\ConsoleAppOhandson9.exe
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\bin\Debug\ConsoleAppOhandson9.pdb
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\obj\Debug\ConsoleAppOhandson9.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\obj\Debug\ConsoleAppOhandson9.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\obj\Debug\ConsoleAppOhandson9.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\obj\Debug\ConsoleAppOhandson9.exe
+C:\DotnetTraining\Day9project\ConsoleAppOhandson9\ConsoleAppOhandson9\obj\Debug\ConsoleAppOhandson9.pdb

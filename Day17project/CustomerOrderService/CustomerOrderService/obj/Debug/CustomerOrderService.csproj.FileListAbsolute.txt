@@ -1,0 +1,6 @@
+C:\DotnetTraining\Day17project\CustomerOrderService\CustomerOrderService\bin\Debug\CustomerOrderService.dll
+C:\DotnetTraining\Day17project\CustomerOrderService\CustomerOrderService\bin\Debug\CustomerOrderService.pdb
+C:\DotnetTraining\Day17project\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day17project\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day17project\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.dll
+C:\DotnetTraining\Day17project\CustomerOrderService\CustomerOrderService\obj\Debug\CustomerOrderService.pdb

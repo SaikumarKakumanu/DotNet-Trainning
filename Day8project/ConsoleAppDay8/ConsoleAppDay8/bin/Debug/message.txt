@@ -1,0 +1,2 @@
+some data add to file
+This is a class on delegates

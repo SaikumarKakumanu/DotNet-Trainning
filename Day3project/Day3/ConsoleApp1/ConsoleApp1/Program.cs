@@ -16,8 +16,13 @@ namespace ConsoleApp1
             accounts.credit(4000.00f);
             //accounts.debit(3000.00f);
             accounts.showdetails();
-           // Product product = new Product();
+            // Product product = new Product();
             //product.diplayproductdetails();
+
+            ArraysEg ae = new ArraysEg();
+            ae.TwoDimension();
+            ae.JaggedArray();
+            
             Console.ReadLine();
         }
     }

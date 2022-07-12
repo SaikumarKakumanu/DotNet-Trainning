@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6cfd957c-0fe0-4ad2-8d78-64c858a1e5bb": {
+      "ProjectGuid": "6cfd957c-0fe0-4ad2-8d78-64c858a1e5bb",
+      "DisplayName": "Day1WebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\bin\Debug\HandsonDay7.exe.config
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\bin\Debug\HandsonDay7.exe
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\bin\Debug\HandsonDay7.pdb
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\obj\Debug\HandsonDay7.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\obj\Debug\HandsonDay7.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\obj\Debug\HandsonDay7.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\obj\Debug\HandsonDay7.exe
+C:\DotnetTraining\Day7project\HandsonDay7\HandsonDay7\obj\Debug\HandsonDay7.pdb

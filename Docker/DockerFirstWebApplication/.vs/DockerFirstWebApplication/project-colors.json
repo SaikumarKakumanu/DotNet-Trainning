@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0b73e80-80d4-41d2-9abb-a72afff9c16c": {
+      "ProjectGuid": "b0b73e80-80d4-41d2-9abb-a72afff9c16c",
+      "DisplayName": "DockerFirstWebApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

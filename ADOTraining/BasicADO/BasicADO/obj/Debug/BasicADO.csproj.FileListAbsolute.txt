@@ -1,0 +1,7 @@
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\bin\Debug\BasicADO.exe.config
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\bin\Debug\BasicADO.exe
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\bin\Debug\BasicADO.pdb
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\obj\Debug\BasicADO.csproj.AssemblyReference.cache
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\obj\Debug\BasicADO.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\obj\Debug\BasicADO.exe
+C:\DotnetTraining\ADOTraining\BasicADO\BasicADO\obj\Debug\BasicADO.pdb

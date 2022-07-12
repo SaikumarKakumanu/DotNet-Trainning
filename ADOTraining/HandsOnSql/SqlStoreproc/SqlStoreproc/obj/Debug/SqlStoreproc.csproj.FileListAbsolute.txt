@@ -1,0 +1,8 @@
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\bin\Debug\SqlStoreproc.exe.config
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\bin\Debug\SqlStoreproc.exe
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\bin\Debug\SqlStoreproc.pdb
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\obj\Debug\SqlStoreproc.csproj.AssemblyReference.cache
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\obj\Debug\SqlStoreproc.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\obj\Debug\SqlStoreproc.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\obj\Debug\SqlStoreproc.exe
+C:\DotnetTraining\ADOTraining\HandsOnSql\SqlStoreproc\SqlStoreproc\obj\Debug\SqlStoreproc.pdb

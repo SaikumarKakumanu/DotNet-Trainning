@@ -1,0 +1,8 @@
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\bin\Debug\HandsonStoreProc.exe.config
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\bin\Debug\HandsonStoreProc.exe
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\bin\Debug\HandsonStoreProc.pdb
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\obj\Debug\HandsonStoreProc.csproj.AssemblyReference.cache
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\obj\Debug\HandsonStoreProc.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\obj\Debug\HandsonStoreProc.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\obj\Debug\HandsonStoreProc.exe
+C:\DotnetTraining\ADOTraining\HandsonStoreProc\HandsonStoreProc\obj\Debug\HandsonStoreProc.pdb

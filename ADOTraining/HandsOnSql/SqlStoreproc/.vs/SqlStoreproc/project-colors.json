@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7703f865-cc2b-48cd-96af-46eceb287dff": {
+      "ProjectGuid": "7703f865-cc2b-48cd-96af-46eceb287dff",
+      "DisplayName": "SqlStoreproc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

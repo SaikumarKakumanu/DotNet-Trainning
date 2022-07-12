@@ -1,0 +1,16 @@
+﻿@model IEnumerable<Day1_MVC.Models.Product>
+@{
+    ViewBag.Title = "DisplayProducts";
+}
+
+<h2>DisplayProducts</h2>
+
+@foreach (var item in Model)
+{
+    <ul>
+        <li>@item.Id</li>
+        <li>@item.Name</li>
+        <li>@item.price</li>
+    </ul>
+}
+

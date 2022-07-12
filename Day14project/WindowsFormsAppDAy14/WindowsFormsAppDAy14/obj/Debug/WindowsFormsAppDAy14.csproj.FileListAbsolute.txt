@@ -1,0 +1,11 @@
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\bin\Debug\WindowsFormsAppDAy14.exe.config
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\bin\Debug\WindowsFormsAppDAy14.exe
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\bin\Debug\WindowsFormsAppDAy14.pdb
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.Properties.Resources.resources
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.csproj.GenerateResource.cache
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.exe
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.pdb
+C:\DotnetTraining\Day14project\WindowsFormsAppDAy14\WindowsFormsAppDAy14\obj\Debug\WindowsFormsAppDAy14.Form1.resources

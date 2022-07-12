@@ -1,0 +1,7 @@
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApplication.exe
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApplication.dll
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApplication.deps.json
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApplication.runtimeconfig.json
+C:\DotnetTraining\AZURE\AzureDemoWebApplication\AzureDemoWebApplication\obj\Release\net6.0\PubTmp\Out\AzureDemoWebApplication.pdb

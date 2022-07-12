@@ -1,0 +1,8 @@
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\bin\Debug\Linq_Project.exe.config
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\bin\Debug\Linq_Project.exe
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\bin\Debug\Linq_Project.pdb
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\obj\Debug\Linq_Project.csproj.AssemblyReference.cache
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\obj\Debug\Linq_Project.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\obj\Debug\Linq_Project.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\obj\Debug\Linq_Project.exe
+C:\DotnetTraining\LINQTraining\Linq_Project\Linq_Project\obj\Debug\Linq_Project.pdb

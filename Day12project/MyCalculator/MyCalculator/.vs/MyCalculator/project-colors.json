@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fe5a91b-bd1a-4117-9461-7a04aed4fc6d": {
+      "ProjectGuid": "5fe5a91b-bd1a-4117-9461-7a04aed4fc6d",
+      "DisplayName": "MyCalculator",
+      "ColorIndex": 0
+    },
+    "65729bb5-ec7c-42be-9c5b-b2ffe53e6135": {
+      "ProjectGuid": "65729bb5-ec7c-42be-9c5b-b2ffe53e6135",
+      "DisplayName": "CalculatorClient",
+      "ColorIndex": 1
+    },
+    "aa051e82-a01c-4fb0-9967-23858d2d0c93": {
+      "ProjectGuid": "aa051e82-a01c-4fb0-9967-23858d2d0c93",
+      "DisplayName": "MyCalculator2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

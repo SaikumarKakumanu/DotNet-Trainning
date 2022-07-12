@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gU/YmcQf/fBX24YutbqkwGw5fSzu76wbIZgYDzjA7VQ1a0X1nM7rnunEafsSFOA+ah0b7bXFO22nVCa10cDFkA==",
+  "success": true,
+  "projectFilePath": "C:\\DotnetTraining\\DotnetCoreweb\\WEBAPI\\Windows_Authentication\\Windows_Authentication\\Windows_Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK67647\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.2\\microsoft.aspnetcore.authentication.negotiate.6.0.2.nupkg.sha512",
+    "C:\\Users\\SK67647\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.2\\microsoft.aspnetcore.connections.abstractions.6.0.2.nupkg.sha512",
+    "C:\\Users\\SK67647\\.nuget\\packages\\microsoft.extensions.features\\6.0.2\\microsoft.extensions.features.6.0.2.nupkg.sha512",
+    "C:\\Users\\SK67647\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\SK67647\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

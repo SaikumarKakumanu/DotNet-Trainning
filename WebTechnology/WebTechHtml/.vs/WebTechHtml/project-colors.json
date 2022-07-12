@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2035f70b-39a3-48ab-932d-bf6b0744a9b7": {
+      "ProjectGuid": "2035f70b-39a3-48ab-932d-bf6b0744a9b7",
+      "DisplayName": "WebTechHtml",
+      "ColorIndex": 0
+    },
+    "f86d8d46-f490-4909-bce2-a7ae9730edff": {
+      "ProjectGuid": "f86d8d46-f490-4909-bce2-a7ae9730edff",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

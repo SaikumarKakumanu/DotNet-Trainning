@@ -1,0 +1,11 @@
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.exe
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.dll
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.deps.json
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.runtimeconfig.json
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.pdb
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotnetTraining\AZURE\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

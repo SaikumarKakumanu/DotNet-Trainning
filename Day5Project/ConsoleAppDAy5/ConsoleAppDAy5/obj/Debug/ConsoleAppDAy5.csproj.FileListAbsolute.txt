@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\bin\Debug\ConsoleAppDAy5.exe.config
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\bin\Debug\ConsoleAppDAy5.exe
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\bin\Debug\ConsoleAppDAy5.pdb
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\obj\Debug\ConsoleAppDAy5.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\obj\Debug\ConsoleAppDAy5.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\obj\Debug\ConsoleAppDAy5.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\obj\Debug\ConsoleAppDAy5.exe
+C:\DotnetTraining\Day5Project\ConsoleAppDAy5\ConsoleAppDAy5\obj\Debug\ConsoleAppDAy5.pdb

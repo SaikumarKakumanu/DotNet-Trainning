@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff1997e7-2a4e-4789-9bf9-e2da9752a62b": {
+      "ProjectGuid": "ff1997e7-2a4e-4789-9bf9-e2da9752a62b",
+      "DisplayName": "Windows_Authentication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
