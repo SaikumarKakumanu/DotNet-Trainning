@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HandsonDay6.Program</StartupObject>
+    <StartupObject>HandsonDay6.ParseEg</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

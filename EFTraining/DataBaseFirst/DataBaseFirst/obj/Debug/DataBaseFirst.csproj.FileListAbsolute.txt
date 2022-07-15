@@ -1,0 +1,13 @@
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.dll
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.xml
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.AssemblyReference.cache
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CopyComplete
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+C:\DotnetTraining\EFTraining\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
